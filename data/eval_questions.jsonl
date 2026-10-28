@@ -1,0 +1,60 @@
+{"question": "I can't find my debit card anywhere, what should I do?", "relevant_id": "card-lost"}
+{"question": "someone took my wallet with my bank card in it", "relevant_id": "card-lost"}
+{"question": "how much does it cost to get a new card sent faster", "relevant_id": "card-replace-fee"}
+{"question": "is there a charge for a replacement card", "relevant_id": "card-replace-fee"}
+{"question": "how long does a wire to another US bank take", "relevant_id": "wire-domestic"}
+{"question": "what do you charge to send a wire inside the country", "relevant_id": "wire-domestic"}
+{"question": "sending money overseas by wire, what's the fee", "relevant_id": "wire-international"}
+{"question": "how many days for a wire to India", "relevant_id": "wire-international"}
+{"question": "what's the most I can send with Zelle in a day", "relevant_id": "zelle-limit"}
+{"question": "Zelle monthly cap", "relevant_id": "zelle-limit"}
+{"question": "how much is the fee if I go negative", "relevant_id": "overdraft-fee"}
+{"question": "will I be charged if my balance drops below zero", "relevant_id": "overdraft-fee"}
+{"question": "can my savings cover my checking if I run short", "relevant_id": "overdraft-protection"}
+{"question": "link savings to avoid overdraft", "relevant_id": "overdraft-protection"}
+{"question": "how do I get my paycheck deposited automatically", "relevant_id": "direct-deposit"}
+{"question": "what info does my employer need to pay me into this account", "relevant_id": "direct-deposit"}
+{"question": "can I get paid a couple of days early", "relevant_id": "early-pay"}
+{"question": "my friend gets her salary before payday, how", "relevant_id": "early-pay"}
+{"question": "what's your ABA number", "relevant_id": "routing-number"}
+{"question": "where do I find the routing number", "relevant_id": "routing-number"}
+{"question": "what interest rate does the savings account pay", "relevant_id": "savings-apy"}
+{"question": "current APY on high yield savings", "relevant_id": "savings-apy"}
+{"question": "is there a limit on how many times I can take money out of savings", "relevant_id": "savings-withdrawals"}
+{"question": "how long to move savings to another bank", "relevant_id": "savings-withdrawals"}
+{"question": "penalty for breaking a CD early", "relevant_id": "cd-early-withdrawal"}
+{"question": "what happens if I take money out of my certificate of deposit before it ends", "relevant_id": "cd-early-withdrawal"}
+{"question": "how do I avoid the monthly maintenance fee on checking", "relevant_id": "account-minimum"}
+{"question": "minimum balance for everyday checking", "relevant_id": "account-minimum"}
+{"question": "I want to close my account", "relevant_id": "close-account"}
+{"question": "is there a fee to shut down my checking account", "relevant_id": "close-account"}
+{"question": "there's a purchase on my card I don't recognize", "relevant_id": "dispute-charge"}
+{"question": "how long does a dispute take", "relevant_id": "dispute-charge"}
+{"question": "I got a text asking if I made a purchase, is it real", "relevant_id": "fraud-alert"}
+{"question": "you texted me about unusual activity", "relevant_id": "fraud-alert"}
+{"question": "got an email asking for my one-time code, is that you", "relevant_id": "phishing"}
+{"question": "where do I report a scam message", "relevant_id": "phishing"}
+{"question": "how do I turn on 2FA", "relevant_id": "two-factor"}
+{"question": "set up an authenticator app for sign in", "relevant_id": "two-factor"}
+{"question": "forgot my password", "relevant_id": "reset-password"}
+{"question": "the reset link is not working anymore", "relevant_id": "reset-password"}
+{"question": "I entered the wrong password too many times", "relevant_id": "locked-out"}
+{"question": "my online banking is locked", "relevant_id": "locked-out"}
+{"question": "can I deposit a check with my phone", "relevant_id": "mobile-deposit"}
+{"question": "max amount for mobile check deposit", "relevant_id": "mobile-deposit"}
+{"question": "why can't I use all the money from the check I deposited", "relevant_id": "check-hold"}
+{"question": "when will my check funds be available", "relevant_id": "check-hold"}
+{"question": "does it cost money to use another bank's ATM", "relevant_id": "atm-fees"}
+{"question": "out of network ATM charge", "relevant_id": "atm-fees"}
+{"question": "how much cash can I take out from an ATM per day", "relevant_id": "atm-limit"}
+{"question": "raise my ATM withdrawal limit", "relevant_id": "atm-limit"}
+{"question": "fee for using my debit card abroad", "relevant_id": "foreign-transaction"}
+{"question": "charges when I buy something in euros", "relevant_id": "foreign-transaction"}
+{"question": "do I need to tell you before I travel", "relevant_id": "travel-notice"}
+{"question": "going to Mexico next week, should I notify the bank", "relevant_id": "travel-notice"}
+{"question": "can I see my credit score in the app", "relevant_id": "credit-score"}
+{"question": "does checking my score hurt my credit", "relevant_id": "credit-score"}
+{"question": "add my wife to my checking account", "relevant_id": "joint-account"}
+{"question": "how to make an account joint", "relevant_id": "joint-account"}
+{"question": "where can I download old statements", "relevant_id": "statements"}
+{"question": "do paper statements cost money", "relevant_id": "statements"}
