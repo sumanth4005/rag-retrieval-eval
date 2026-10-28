@@ -1,0 +1,1 @@
+Hand-written sample data for a fictional bank. `faq_corpus.jsonl` is the 30-document knowledge base; `eval_questions.jsonl` holds 60 paraphrased test questions with the id of the document that answers each.
